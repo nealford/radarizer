@@ -1,4 +1,4 @@
-NOTE : This is a work in progress, and it doesn't do anything yet. Stay tuned...
+*NOTE : This is a work in progress, and it doesn't do anything yet. Stay tuned...*
 
 # Radarizer
 
