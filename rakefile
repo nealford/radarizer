@@ -1,0 +1,5 @@
+require 'rake'
+
+task :pushit do
+  `git push origin master`
+end
